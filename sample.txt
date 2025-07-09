@@ -1,1 +1,1 @@
-this is sample filethis is second line
+this is sample file
